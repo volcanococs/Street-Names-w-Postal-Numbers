@@ -7,8 +7,6 @@ www.rebelheartgaming.com
 
 High Speed Gaming Modified Link / Client Install Instructions: http://highspeed-gaming.com/Forum/index.php?/topic/216-google-map-style-with-streets-names-for-gta-5-main-map/
 
-Original link: http://www.mountiesgaming.ca/topic/1600-google-maps-mod-street-names/
-
 Credits: http://gta-5-map.com/ & Special Thanks to Khrodes
 
 If you are the owner / creater of the "GTA V Street Names" mod, please send me a message and I'll add additional credits for you.
