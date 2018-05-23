@@ -84,3 +84,18 @@ Installation:
 To sum up:
 
 \FiveM Application Data\citizen\common\data\ui  => mapzoomdata.meta
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+source: http://forums.improvrp.com/viewtopic.php?f=22&t=38
+
+This tutorial will show you how to make your postal code map in game appear clean and not blurry. Follow the below for steps.
+
+Steps:
+
+- When in game go to your pause menu
+- Into settings
+- Graphics
+- Go down to 'Texture Quality'
+- Set it on high or above.
+
+That should fix the blurry postal codes. Thanks to @officerholt for the fix.
